@@ -20,14 +20,14 @@ Registration form: [TBD: insert Google Form link]
 
 ## Submission Rule
 
-If Codabench allows submission through an organization or team account, please submit using the registered team/organization. The team/organization name on Codabench must match the team name in the registration form.
+Official submissions must be made using the Codabench account registered with the team leader's email address. This rule is used to prevent duplicated accounts and unfair use of submission attempts.
 
-If team-based submission cannot be enforced by the platform, submissions will be audited according to the registration information. In this case:
+Submissions will be audited according to the registration information. In this case:
 
 - Each person can belong to only one registered team.
 - If one person appears in multiple teams, the organizers will contact the related teams for clarification and may keep only one valid team association.
-- If multiple members of the same registered team submit results using different Codabench accounts, the best valid score among these submissions will be treated as the official team score.
-- If one participant submits results for multiple teams, the organizers reserve the right to invalidate duplicated or conflicting submissions after review.
+- Submissions from unregistered, duplicate, or non-leader Codabench accounts may be excluded from the final ranking.
+- If the official submission account needs to be changed, the team leader must request approval by email before submitting.
 - The final leaderboard and award eligibility will be determined after organizer review.
 
 ## Registration Updates
