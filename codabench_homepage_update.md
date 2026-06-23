@@ -13,17 +13,21 @@ The benchmark uses a subject-disjoint split. Anonymized subjects `test_1` throug
 
 Codabench runs each submitted model on evaluation test data and then scores the generated predictions. Submissions are ranked by overall mean absolute error across valence and arousal. Lower scores indicate better prediction accuracy.
 
-## Important Notice: Team Registration Required Before Submission
+## ⚠️ Important Notice: Team Registration Required Before Submission
 
-The MER-PS 2026 submission portal is now open. Before making official submissions, each team must complete the team registration form:
-
-**Team registration page:** [https://xw4n74sdcg-cmd.github.io/mer-ps-register/registration.html](https://xw4n74sdcg-cmd.github.io/mer-ps-register/registration.html)
-
-Only the team leader needs to submit the registration form. The form collects the team name, institution, country/region, and each member's real name, Codabench username, and email address. This information will be used for final result verification and fairness auditing.
-
-To prevent duplicated accounts and unfair use of submission attempts, official submissions must be made using the Codabench account registered with the team leader's email address. Submissions from unregistered, duplicate, or non-leader accounts may be excluded from the final ranking unless the team has received prior approval from the organizers by email.
-
-Each person may belong to only one registered team. Each team should submit the registration form only once. If team information needs to be updated, such as member changes or account corrections, the team leader must contact the organizers by email before the final submission deadline.
+> The MER-PS 2026 submission portal is now open.
+>
+> Before making official submissions, each team must complete the team registration form:
+>
+> **Team registration page:** [https://xw4n74sdcg-cmd.github.io/mer-ps-register/registration.html](https://xw4n74sdcg-cmd.github.io/mer-ps-register/registration.html)
+>
+> Only the team leader needs to submit the registration form. The form collects the team name, institution, country/region, and each member's real name, Codabench username, and email address. This information will be used for final result verification and fairness auditing.
+>
+> **Official submissions must be made using the Codabench account registered with the team leader's email address.** This rule is used to prevent duplicated accounts and unfair use of submission attempts.
+>
+> Submissions from unregistered, duplicate, or non-leader accounts may be excluded from the final ranking unless the team has received prior approval from the organizers by email.
+>
+> Each person may belong to only one registered team. Each team should submit the registration form only once. If team information needs to be updated, such as member changes or account corrections, the team leader must contact the organizers by email before the final submission deadline.
 
 ## Submission Status
 
