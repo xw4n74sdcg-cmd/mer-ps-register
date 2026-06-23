@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MER-PS Challenge</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <a class="site-title" href="index.html">MER-PS Challenge</a>
+      <button class="hamburger" onclick="document.querySelector('nav').classList.toggle('open')" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
+      <nav>
+        <ul>
+          <li><a class="active" href="index.html">Home</a></li>
+          <li><a href="registration.html">Registration</a></li>
+          <li><a href="https://www.codabench.org/competitions/15992/" target="_blank">Codabench</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-inner">
+        <p class="eyebrow">Team Registration and Submission Audit</p>
+        <h1>MER-PS Challenge</h1>
+        <p class="hero-copy">
+          Register your team before official submissions so that final results can be audited fairly and consistently.
+        </p>
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="registration.html">Register Team</a>
+          <a class="btn btn-secondary" href="https://www.codabench.org/competitions/15992/" target="_blank">Open Codabench</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="page-wrap">
+      <h2>Overview</h2>
+      <p>
+        Each participating team should complete the team registration form once. The registration information will be used
+        to verify team membership, Codabench accounts, submission ownership, and final ranking eligibility.
+      </p>
+
+      <div class="notice">
+        Only the team leader needs to submit the form. Every member must provide a real name, Codabench username, and email address.
+      </div>
+
+      <div class="cards">
+        <article class="card">
+          <h3>One Person, One Team</h3>
+          <p>Each participant may belong to only one registered team for MER-PS.</p>
+        </article>
+        <article class="card">
+          <h3>Registration-Based Audit</h3>
+          <p>Final scores and eligibility will be checked against the submitted team information.</p>
+        </article>
+        <article class="card">
+          <h3>Email-Based Updates</h3>
+          <p>Membership or account changes should be requested by email before the final deadline.</p>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>MER-PS Challenge Organizing Committee</p>
+  </footer>
+</body>
+</html>
